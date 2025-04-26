@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# 🚀 Crypto-Price-Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **responsive**, real-time **Crypto Price Tracker** web application built with **React**, **Redux Toolkit**, and **TailwindCSS**, simulating live WebSocket updates.
 
-## Available Scripts
+It displays dynamic cryptocurrency data (Price, % Changes, Market Cap, Volume, Supply, and 7D Chart) with random real-time updates every **1–2 seconds**.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📦 Setup Instructions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/crypto-price-tracker.git
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. **Clone the repository:**
+   ```bash
+   cd crypto-price-tracker
 
-### `npm test`
+3. **Navigate to the Project Directory:**
+   ```bash
+   cd crypto-price-tracker
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. **Install dependencies:**
+   ```bash
+   npm install
 
-### `npm run build`
+4. **Start the development server:**
+   ```bash
+   npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠 **Tech Stack + Architecture**
+## 🧰 Frontend
+**React 19** — Functional components and Hooks.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Redux Toolkit** — For state management (createSlice, configureStore, createSelector).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**TailwindCSS** — For responsive, mobile-first UI styling.
 
-### `npm run eject`
+**Material Icons** — For crypto % change indicators and basic icons..
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📹 Demo Video
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Watch the demo video here:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<video width="640" height="360" controls>
+  <source src="./src/assets/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
