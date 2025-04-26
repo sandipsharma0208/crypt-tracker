@@ -9,27 +9,42 @@ It displays dynamic cryptocurrency data (Price, % Changes, Market Cap, Volume, S
 ## 📦 Setup Instructions
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/your-username/crypto-price-tracker.git
 
+   ```
+
 2. **Clone the repository:**
+
    ```bash
    cd crypto-price-tracker
+
+   ```
 
 3. **Navigate to the Project Directory:**
+
    ```bash
    cd crypto-price-tracker
 
+   ```
+
 4. **Install dependencies:**
+
    ```bash
    npm install
 
-4. **Start the development server:**
+   ```
+
+5. **Start the development server:**
    ```bash
    npm start
+   ```
 
 🛠 **Tech Stack + Architecture**
+
 ## 🧰 Frontend
+
 **React 19** — Functional components and Hooks.
 
 **Redux Toolkit** — For state management (createSlice, configureStore, createSelector).
@@ -46,3 +61,9 @@ Watch the demo video here:
   <source src="./src/assets/demo-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+## 📸 Demo Image
+
+Here’s a preview of the app:
+
+![Demo Image](<./src/assets/Screenshot%20(29).png>)
