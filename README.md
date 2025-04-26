@@ -57,10 +57,7 @@ It displays dynamic cryptocurrency data (Price, % Changes, Market Cap, Volume, S
 
 Watch the demo video here:
 
-<video width="640" height="360" controls>
-  <source src="./src/assets/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to view the video](https://drive.google.com/file/d/1uyWmFC2jcRXm-FIOIBuitOunDP-0nvKi/view?usp=drivesdk)
 
 ## 📸 Demo Image
 
