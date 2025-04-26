@@ -66,4 +66,4 @@ Watch the demo video here:
 
 Here’s a preview of the app:
 
-![Demo Image](<./src/assets/Screenshot%20(29).png>)
+![Demo Image](<./src/assets/crypto-img.png>)
